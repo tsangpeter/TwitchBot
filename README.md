@@ -5,7 +5,7 @@ Chatbot that responds to commands in chat on Twitch channels.
 # Requirements
 
 * Node.js
-*Twitch-irc
+* Twitch-irc
 
 # Installation
 
